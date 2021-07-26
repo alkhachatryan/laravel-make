@@ -2,7 +2,6 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 ![Packagist Version](https://img.shields.io/packagist/v/alkhachatryan/laravel-make)
-![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/alkhachatryan/laravel-make)
 [![Total Downloads][ico-downloads]][link-downloads]
 ![](https://komarev.com/ghpvc/?username=alkhachatryan-laravel-make&label=Repo+views&color=brightgreen&style=flat-square)
 
