@@ -17,7 +17,7 @@
     }
   ],
   "require": {       
-    "illuminate/support": "^5.0"
+    "illuminate/support": "*"
   },
   "require-dev": {
     "orchestra/testbench": "^4.0|^5.0|^6.0",
