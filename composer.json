@@ -1,0 +1,52 @@
+{
+  "name": "alkhachatryan/laravel-make",
+  "description": "Make classes, trait and interface using artisan make command",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "make",
+    "class",
+    "trait",
+    "interface"
+  ],
+  "type": "library",
+  "authors": [
+    {
+      "name": "Alexey Khachatryan",
+      "email": "alexey.khachatryan@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "illuminate/support": "^6.0|^7.0|^8.0"
+  },
+  "require-dev": {
+    "orchestra/testbench": "^4.0|^5.0|^6.0",
+    "phpunit/phpunit": "^8.4|^9.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Alkhachatryan\\LaravelMake\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Alkhachatryan\\LaravelMake\\Tests\\": "tests"
+    }
+  },
+  "scripts": {
+    "phpunit": "phpunit"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Alkhachatryan\\LaravelMake\\ServiceProvider"
+      ]
+    }
+  },
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true
+  }
+}
