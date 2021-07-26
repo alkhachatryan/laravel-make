@@ -33,6 +33,7 @@
       "Alkhachatryan\\LaravelMake\\Tests\\": "tests"
     }
   },
+  "minimum-stability": "dev",
   "scripts": {
     "phpunit": "phpunit"
   },
