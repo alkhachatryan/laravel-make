@@ -33,5 +33,5 @@ If you discover any security-related issues, please email info@khachatryan.org i
 # License
 The MIT License (MIT). Please see [License File](/LICENSE.md) for more information.
 
-[ico-downloads]: https://img.shields.io/packagist/dt/alkhachatryan/laravel-loggable.svg?style=flat-square&color=brightgreen
-[link-downloads]: https://packagist.org/packages/alkhachatryan/laravel-loggable
+[ico-downloads]: https://img.shields.io/packagist/dt/alkhachatryan/laravel-make.svg?style=flat-square&color=brightgreen
+[link-downloads]: https://packagist.org/packages/alkhachatryan/laravel-make
